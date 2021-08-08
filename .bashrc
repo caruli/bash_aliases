@@ -124,6 +124,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 export PATH="/usr/local/heroku/bin:$PATH"
 
 # pk aliases added
+bind -x '"\M-z"' : "fg"  # Move the job to the foreground
+
+
+
 
 
 
